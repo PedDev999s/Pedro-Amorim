@@ -1,4 +1,4 @@
-<p align="center"> <b># Pedro-Amorim</b> </p>
+<p align="center"> <b> <h1> Pedro-Amorim</h1></b> </p>
 
 <p align="justify"> 🇧🇷 Sobre mim (PT-BR)</p>
 <p align="justify">Meu nome é Pedro Henrique, sou natural de São Paulo/SP. Sou formado em Administração de Empresas e Contabilidade, e atualmente estou cursando Desenvolvimento de Sistemas. Minha trajetória profissional começou no mundo dos negócios, mas sempre tive uma paixão por tecnologia e inovação. 
